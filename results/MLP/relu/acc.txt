@@ -1,0 +1,6 @@
+small accuracy: 0.302667080537714
+big accuracy: 0.5359232110026027
+wide accuracy: 0.6780879157613238
+deep accuracy: 0.542561065877128
+
+Najlepszy: wide - 0.6780879157613238

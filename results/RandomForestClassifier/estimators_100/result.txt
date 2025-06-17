@@ -1,0 +1,272 @@
+                               precision    recall  f1-score   support
+
+             Alder Flycatcher       0.89      0.90      0.89       225
+              American Avocet       0.98      0.91      0.94        44
+             American Bittern       0.88      0.94      0.91       105
+             American Bushtit       0.90      0.98      0.94       150
+       American Cliff Swallow       0.93      0.90      0.91       143
+                American Coot       0.95      0.90      0.92        86
+                American Crow       0.89      0.94      0.91       247
+    American Dusky Flycatcher       0.91      0.92      0.92       178
+           American Goldfinch       0.90      0.93      0.91       206
+     American Grey Flycatcher       0.90      0.97      0.93       198
+             American Kestrel       0.94      0.77      0.85        62
+            American Redstart       0.92      0.93      0.92       234
+               American Robin       0.90      0.95      0.92       244
+        American Tree Sparrow       0.93      0.95      0.94       133
+              American Wigeon       1.00      0.83      0.91        29
+            American Woodcock       0.94      0.95      0.95       266
+           Anna's Hummingbird       0.90      0.88      0.89       167
+      Ash-throated Flycatcher       0.92      0.93      0.93       313
+            Baird's Sandpiper       0.80      0.79      0.80        42
+                   Bald Eagle       0.98      0.86      0.92        59
+             Baltimore Oriole       0.93      0.84      0.88       171
+                 Barn Swallow       0.89      0.93      0.91       167
+                   Barred Owl       0.90      0.96      0.93       254
+               Bell's Sparrow       0.80      0.94      0.87       190
+            Belted Kingfisher       0.91      0.81      0.86        86
+                Bewick's Wren       0.88      0.94      0.91       272
+                 Black Phoebe       0.95      0.91      0.93       161
+      Black-and-white Warbler       0.92      0.92      0.92       153
+          Black-billed Cuckoo       0.98      0.85      0.91        47
+          Black-billed Magpie       0.97      0.91      0.94       101
+       Black-capped Chickadee       0.94      0.94      0.94       199
+    Black-chinned Hummingbird       0.84      0.78      0.81        41
+        Black-headed Grosbeak       0.86      0.90      0.88       266
+           Black-necked Grebe       0.96      0.89      0.92        72
+  Black-throated Blue Warbler       0.91      0.92      0.92       119
+ Black-throated Green Warbler       0.96      0.90      0.93       166
+  Black-throated Grey Warbler       0.91      0.85      0.88       197
+       Black-throated Sparrow       0.90      0.92      0.91       231
+         Blackburnian Warbler       0.93      0.94      0.94       183
+            Blackpoll Warbler       0.86      0.92      0.89       243
+                Blue Grosbeak       0.94      0.93      0.93       218
+                     Blue Jay       0.95      0.89      0.92       131
+        Blue-grey Gnatcatcher       0.91      0.93      0.92       273
+            Blue-headed Vireo       0.82      0.91      0.86       274
+             Blue-winged Teal       0.89      0.84      0.86        38
+          Blue-winged Warbler       0.92      0.92      0.92       221
+                     Bobolink       0.92      0.84      0.88       170
+             Bonaparte's Gull       0.93      0.95      0.94        42
+           Brewer's Blackbird       0.95      0.97      0.96        77
+             Brewer's Sparrow       0.88      0.81      0.84       321
+     Broad-tailed Hummingbird       0.83      0.88      0.85        89
+            Broad-winged Hawk       0.98      0.91      0.95       116
+                Brown Creeper       0.91      0.89      0.90       197
+               Brown Thrasher       0.86      0.97      0.91       442
+         Brown-headed Cowbird       0.90      0.91      0.91       221
+           Buff-bellied Pipit       0.90      0.76      0.83        75
+                   Bufflehead       0.94      1.00      0.97        15
+             Bullock's Oriole       0.86      0.95      0.90       522
+                  Cactus Wren       0.85      0.86      0.85       195
+              California Gull       1.00      0.90      0.95        41
+             California Quail       0.89      0.87      0.88       174
+         California Scrub Jay       0.89      0.82      0.86        90
+                 Canada Goose       0.84      0.93      0.88       172
+               Canada Warbler       0.91      0.94      0.93       236
+                  Canyon Wren       0.91      0.83      0.87       190
+             Cape May Warbler       0.95      0.96      0.95       138
+                Carolina Wren       1.00      0.95      0.98       188
+                 Caspian Tern       0.91      0.81      0.86       117
+               Cassin's Finch       0.92      0.85      0.88       130
+               Cassin's Vireo       0.92      0.90      0.91       297
+                Cedar Waxwing       0.93      0.92      0.93       122
+       Chestnut-sided Warbler       0.87      0.97      0.92       217
+                Chimney Swift       0.95      0.76      0.84        25
+             Chipping Sparrow       0.95      0.92      0.94       203
+             Chukar Partridge       0.97      0.78      0.86        36
+           Clark's Nutcracker       0.88      0.88      0.88       113
+             Common Goldeneye       0.98      0.88      0.93        94
+               Common Grackle       0.92      0.88      0.90       192
+                  Common Loon       0.95      0.84      0.89       102
+             Common Merganser       0.99      0.88      0.93        82
+             Common Nighthawk       0.96      0.95      0.96       172
+               Common Redpoll       0.93      0.91      0.92       118
+              Common Starling       0.93      0.75      0.83       100
+                  Common Tern       0.86      0.90      0.88       180
+          Common Yellowthroat       0.92      0.91      0.92       226
+                Cooper's Hawk       0.93      0.88      0.90       155
+          Costa's Hummingbird       1.00      0.88      0.93        24
+              Dark-eyed Junco       0.96      0.91      0.93       211
+     Double-crested Cormorant       0.97      0.87      0.92        38
+             Downy Woodpecker       0.94      0.90      0.92       170
+             Eastern Bluebird       0.94      0.94      0.94       217
+             Eastern Kingbird       0.91      0.90      0.90       148
+           Eastern Meadowlark       0.95      0.94      0.95       220
+               Eastern Phoebe       0.94      0.92      0.93       149
+               Eastern Towhee       0.91      0.89      0.90       197
+           Eastern Wood Pewee       0.95      0.94      0.94       188
+       Eurasian Collared Dove       0.89      0.91      0.90       125
+                Eurasian Teal       0.89      0.86      0.88        96
+        European Herring Gull       0.88      0.91      0.89       108
+             Evening Grosbeak       0.95      0.97      0.96       147
+                Field Sparrow       0.90      0.92      0.91       202
+                    Fish Crow       0.90      0.97      0.94       164
+                      Gadwall       0.93      0.79      0.85        85
+                 Golden Eagle       0.96      0.81      0.88        93
+       Golden-crowned Kinglet       0.93      0.97      0.95       226
+       Golden-crowned Sparrow       0.89      0.94      0.91       209
+             Great Blue Heron       0.90      0.79      0.84        90
+     Great Crested Flycatcher       0.92      0.89      0.91       220
+                  Great Egret       0.92      0.89      0.90        61
+             Great Horned Owl       0.95      0.98      0.96       264
+         Great-tailed Grackle       0.91      0.90      0.90       184
+           Greater Roadrunner       0.89      0.94      0.91       348
+           Greater Yellowlegs       0.97      0.94      0.95        88
+                  Green Heron       0.94      0.79      0.86        38
+          Green-tailed Towhee       0.84      0.89      0.87       274
+                 Grey Catbird       0.87      0.97      0.91       234
+      Grey-crowned Rosy Finch       0.96      1.00      0.98        44
+             Hairy Woodpecker       0.88      0.88      0.88       148
+         Hammond's Flycatcher       0.92      0.93      0.93       220
+                Hermit Thrush       0.72      0.93      0.81       455
+             Hooded Merganser       1.00      0.96      0.98        25
+               Hooded Warbler       0.91      0.95      0.93       200
+                 Horned Grebe       0.86      0.85      0.85        99
+                  Horned Lark       0.92      0.87      0.89       126
+                  House Finch       0.89      0.91      0.90       238
+                House Sparrow       0.90      0.88      0.89       164
+                   House Wren       0.92      0.96      0.94       167
+               Indigo Bunting       0.88      0.93      0.90       215
+             Juniper Titmouse       0.93      0.86      0.89       144
+                     Killdeer       0.93      0.88      0.91       146
+     Ladder-backed Woodpecker       0.88      0.90      0.89       113
+                 Lark Sparrow       0.83      0.91      0.87       331
+               Lazuli Bunting       0.88      0.88      0.88       195
+           LeConte's Thrasher       1.00      0.93      0.97        60
+                Least Bittern       1.00      0.95      0.98       103
+             Least Flycatcher       0.91      0.89      0.90       191
+              Least Sandpiper       0.95      0.86      0.90        42
+             Lesser Goldfinch       0.88      0.92      0.90       208
+             Lesser Nighthawk       1.00      0.93      0.96        67
+            Lesser Yellowlegs       0.94      0.81      0.87        57
+           Lewis's Woodpecker       0.92      0.88      0.90        25
+            Lincoln's Sparrow       0.83      0.89      0.86       258
+            Loggerhead Shrike       0.84      0.94      0.89       302
+           Long-billed Curlew       0.95      0.89      0.92        99
+        Long-billed Dowitcher       0.90      0.83      0.86        53
+             Long-tailed Duck       0.92      0.91      0.92        67
+        Louisiana Waterthrush       0.85      0.93      0.89       183
+       MacGillivray's Warbler       0.95      0.91      0.93       221
+             Magnolia Warbler       0.88      0.89      0.89       228
+                      Mallard       0.89      0.93      0.91       215
+             Mangrove Warbler       1.00      0.97      0.99       106
+                   Marsh Wren       0.89      0.93      0.91       281
+                       Merlin       0.89      0.73      0.80        92
+            Mountain Bluebird       1.00      0.94      0.97        34
+           Mountain Chickadee       0.93      0.84      0.88       164
+                Mourning Dove       0.92      0.93      0.92       212
+               Myrtle Warbler       0.91      0.89      0.90       192
+            Northern Cardinal       0.93      0.95      0.94       227
+             Northern Flicker       0.98      0.86      0.92       142
+             Northern Harrier       0.94      0.87      0.91        39
+         Northern Mockingbird       0.81      0.82      0.82       518
+              Northern Parula       0.93      0.94      0.94       217
+             Northern Pintail       0.95      0.95      0.95        41
+               Northern Raven       0.83      0.95      0.89       316
+Northern Rough-winged Swallow       1.00      0.93      0.96        14
+            Northern Shoveler       0.94      0.86      0.89        69
+         Northern Waterthrush       0.94      0.89      0.91       179
+         Nuttall's Woodpecker       0.96      0.81      0.88        53
+       Olive-sided Flycatcher       0.89      0.91      0.90       223
+       Orange-crowned Warbler       0.91      0.84      0.87       198
+                     Ovenbird       0.94      0.90      0.92       241
+     Pacific-slope Flycatcher       0.92      0.94      0.93       230
+                 Palm Warbler       0.97      0.91      0.94        80
+           Pectoral Sandpiper       1.00      0.64      0.78        33
+             Peregrine Falcon       0.97      0.86      0.91       137
+                  Phainopepla       0.97      0.91      0.94       137
+            Pied-billed Grebe       0.99      0.79      0.88        89
+          Pileated Woodpecker       0.94      0.90      0.92       160
+                Pine Grosbeak       0.96      0.91      0.93       118
+                  Pine Siskin       0.87      0.89      0.88       219
+                 Pine Warbler       0.89      0.93      0.91       250
+                   Pinyon Jay       0.97      0.90      0.93        78
+              Plumbeous Vireo       0.85      0.89      0.87       243
+              Prairie Warbler       0.96      0.85      0.90       175
+                 Purple Finch       0.92      0.90      0.91       228
+               Pygmy Nuthatch       0.96      0.77      0.85        69
+                Red Crossbill       0.97      0.84      0.90       122
+              Red Fox Sparrow       0.91      0.90      0.91       263
+       Red-bellied Woodpecker       0.89      0.95      0.92       173
+       Red-breasted Merganser       1.00      0.31      0.47        13
+        Red-breasted Nuthatch       0.95      0.86      0.90       164
+       Red-breasted Sapsucker       1.00      0.85      0.92        40
+               Red-eyed Vireo       0.92      0.95      0.93       278
+         Red-necked Phalarope       0.94      0.95      0.95       177
+          Red-shouldered Hawk       0.93      0.79      0.86       121
+              Red-tailed Hawk       0.97      0.85      0.91       144
+         Red-winged Blackbird       0.93      0.92      0.93       233
+                      Redhead       0.92      0.92      0.92        13
+             Ring-billed Gull       0.89      0.77      0.82        52
+             Ring-necked Duck       0.88      0.79      0.83        19
+                    Rock Dove       0.89      0.92      0.90       119
+                    Rock Wren       0.88      0.87      0.88       263
+       Rose-breasted Grosbeak       0.93      0.87      0.90       184
+         Ruby-crowned Kinglet       0.94      0.89      0.91       184
+    Ruby-throated Hummingbird       0.93      0.93      0.93        15
+                   Ruddy Duck       0.92      0.94      0.93        35
+                Ruffed Grouse       0.91      0.93      0.92        43
+           Rufous Hummingbird       0.91      0.79      0.84        62
+              Rusty Blackbird       0.99      0.90      0.94        96
+                Sage Thrasher       0.94      0.93      0.93       145
+            Sagebrush Sparrow       0.96      0.91      0.93        54
+                  Sand Martin       0.94      0.94      0.94       250
+             Savannah Sparrow       0.93      0.93      0.93       258
+                 Say's Phoebe       0.97      0.91      0.94       104
+              Scarlet Tanager       0.91      0.93      0.92       218
+               Scott's Oriole       0.80      0.92      0.86       380
+          Semipalmated Plover       0.94      0.78      0.85        40
+       Semipalmated Sandpiper       0.93      0.90      0.92        62
+           Sharp-shinned Hawk       0.93      0.80      0.86        35
+              Short-eared Owl       0.92      0.98      0.95        82
+                 Snow Bunting       0.97      0.95      0.96       323
+                   Snow Goose       0.91      0.99      0.95       229
+           Solitary Sandpiper       0.97      0.77      0.86        75
+                 Song Sparrow       0.93      0.91      0.92       179
+                         Sora       0.96      0.95      0.95       164
+            Spotted Sandpiper       0.94      0.89      0.92        74
+               Spotted Towhee       0.97      0.94      0.95       157
+                Steller's Jay       0.96      0.88      0.91       184
+              Swainson's Hawk       0.95      0.84      0.89        44
+            Swainson's Thrush       0.92      0.93      0.93       340
+                Swamp Sparrow       0.94      0.92      0.93       192
+                 Tree Swallow       0.95      0.93      0.94       161
+               Trumpeter Swan       0.93      0.96      0.95        56
+              Tufted Titmouse       0.89      0.92      0.91       186
+                  Tundra Swan       0.95      0.89      0.92        84
+                        Veery       0.91      0.91      0.91       197
+               Vesper Sparrow       0.92      0.92      0.92       416
+         Violet-green Swallow       0.99      0.90      0.94        91
+               Warbling Vireo       0.86      0.88      0.87       309
+             Western Bluebird       0.92      0.95      0.93        60
+                Western Grebe       0.95      0.91      0.93        57
+             Western Kingbird       0.94      0.84      0.89       177
+           Western Meadowlark       0.90      0.88      0.89       244
+               Western Osprey       0.94      0.87      0.90       161
+            Western Sandpiper       0.96      0.82      0.88        28
+              Western Tanager       0.95      0.92      0.93       261
+           Western Wood Pewee       0.90      0.88      0.89       243
+      White-breasted Nuthatch       0.92      0.89      0.90       237
+        White-crowned Sparrow       0.94      0.86      0.90       227
+             White-faced Ibis       0.94      0.81      0.87        21
+       White-throated Sparrow       0.91      0.91      0.91       273
+         White-throated Swift       1.00      0.68      0.81        34
+                  Wild Turkey       0.94      0.93      0.93       131
+            Willow Flycatcher       0.91      0.93      0.92       150
+               Wilson's Snipe       0.94      0.94      0.94       222
+             Wilson's Warbler       0.93      0.94      0.93       172
+                  Winter Wren       0.87      0.88      0.88       265
+                    Wood Duck       0.97      0.84      0.90        37
+                  Wood Thrush       0.92      0.97      0.94       243
+        Woodhouse's Scrub Jay       0.86      0.86      0.86       129
+    Yellow-bellied Flycatcher       0.96      0.92      0.94       176
+     Yellow-bellied Sapsucker       0.92      0.82      0.87        79
+      Yellow-headed Blackbird       0.87      0.97      0.92       180
+        Yellow-throated Vireo       0.98      0.90      0.94       144
+
+                     accuracy                           0.91     41881
+                    macro avg       0.92      0.89      0.91     41881
+                 weighted avg       0.91      0.91      0.91     41881
+
+Trening trwał 5min 56s

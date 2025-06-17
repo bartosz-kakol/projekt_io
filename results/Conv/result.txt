@@ -1,0 +1,60 @@
+/Users/bartekk/PycharmProjects/bird-sound-recognition/.venv/lib/python3.12/site-packages/keras/src/layers/convolutional/base_conv.py:113: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+2025-06-16 22:58:58.273657: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M4 Pro
+2025-06-16 22:58:58.317908: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 24.00 GB
+2025-06-16 22:58:58.318152: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 8.00 GB
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1750107538.319208 3888408 pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+I0000 00:00:1750107538.320594 3888408 pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+
+
+2025-06-16 23:00:14.498983: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:117] Plugin optimizer for device_type GPU is enabled.
+
+Epoch 1/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 296ms/step - accuracy: 0.0119 - loss: 5.5250
+Epoch 1: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_01.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 418s 317ms/step - accuracy: 0.0119 - loss: 5.5250 - val_accuracy: 0.0014 - val_loss: 292394.4062
+Epoch 2/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 302ms/step - accuracy: 0.0124 - loss: 5.4256
+Epoch 2: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_02.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 413s 315ms/step - accuracy: 0.0124 - loss: 5.4256 - val_accuracy: 0.0014 - val_loss: 293242.7188
+Epoch 3/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 306ms/step - accuracy: 0.0124 - loss: 5.4094
+Epoch 3: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_03.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 417s 319ms/step - accuracy: 0.0124 - loss: 5.4094 - val_accuracy: 0.0014 - val_loss: 293242.6250
+Epoch 4/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 302ms/step - accuracy: 0.0121 - loss: 5.4038
+Epoch 4: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_04.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 413s 315ms/step - accuracy: 0.0121 - loss: 5.4038 - val_accuracy: 0.0014 - val_loss: 293242.5000
+Epoch 5/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 302ms/step - accuracy: 0.0126 - loss: 5.4016
+Epoch 5: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_05.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 412s 315ms/step - accuracy: 0.0126 - loss: 5.4016 - val_accuracy: 0.0014 - val_loss: 293242.4688
+Epoch 6/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 302ms/step - accuracy: 0.0124 - loss: 5.4028
+Epoch 6: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_06.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 412s 315ms/step - accuracy: 0.0124 - loss: 5.4028 - val_accuracy: 0.0014 - val_loss: 293242.4062
+Epoch 7/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 304ms/step - accuracy: 0.0126 - loss: 5.4015
+Epoch 7: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_07.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 415s 317ms/step - accuracy: 0.0126 - loss: 5.4015 - val_accuracy: 0.0014 - val_loss: 293242.4062
+Epoch 8/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 300ms/step - accuracy: 0.0121 - loss: 5.4011
+Epoch 8: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_08.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 409s 312ms/step - accuracy: 0.0121 - loss: 5.4011 - val_accuracy: 0.0014 - val_loss: 293242.4062
+Epoch 9/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 300ms/step - accuracy: 0.0121 - loss: 5.4020
+Epoch 9: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_09.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 410s 313ms/step - accuracy: 0.0121 - loss: 5.4020 - val_accuracy: 0.0014 - val_loss: 293242.4062
+Epoch 10/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 299ms/step - accuracy: 0.0126 - loss: 5.4018
+Epoch 10: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_10.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 407s 311ms/step - accuracy: 0.0126 - loss: 5.4018 - val_accuracy: 0.0014 - val_loss: 293242.3750
+Epoch 11/60
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 0s 298ms/step - accuracy: 0.0124 - loss: 5.4028
+Epoch 11: saving model to /Volumes/Makaron/birdsong-recognition/saved_models/model_epoch_11.keras
+1309/1309 ━━━━━━━━━━━━━━━━━━━━ 406s 310ms/step - accuracy: 0.0124 - loss: 5.4028 - val_accuracy: 0.0014 - val_loss: 293242.3750
+Epoch 12/60
+ 201/1309 ━━━━━━━━━━━━━━━━━━━━ 5:36 304ms/step - accuracy: 0.0125 - loss: 5.4073
+---------------------------------------------------------------------------
+KeyboardInterrupt
